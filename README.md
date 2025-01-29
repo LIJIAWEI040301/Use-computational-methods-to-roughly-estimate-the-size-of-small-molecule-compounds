@@ -1,6 +1,6 @@
 # Use-computational-methods-to-roughly-estimate-the-size-of-small-molecule-compounds
 
-During docking, the setting of the `overlap` parameter is critical:
+During docking(https://github.com/LIJIAWEI040301/Blind-Docking-for-Target-Fishing-based-on-Autodock), the setting of the `overlap` parameter is critical:
 - **Set too small**: Some high-scoring docking poses may be ignored because they fall into gaps.
 - **Set too large**: This significantly increases computational cost.
 
