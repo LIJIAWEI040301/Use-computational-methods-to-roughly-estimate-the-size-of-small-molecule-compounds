@@ -9,7 +9,7 @@ To quantitatively determine the size of small molecules and assist in selecting 
 ## Methodology
 
 We use the following tools and steps to calculate the size of small molecules:
-1. Extract the coordinates of the small molecule from PDB or PDBQT files.
+1. Extract the coordinates of the small molecule from PDBQT files.
 2. Input the coordinates into an online tool for calculation.
 3. Use the calculation results to select a reasonable `overlap` parameter.
 
