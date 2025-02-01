@@ -23,14 +23,12 @@ We provide scripts to extract coordinates from PDB or PDBQT files.
 
 Run the following commands:
 ```bash
-python pdb.py
-# or
 python pdbqt.py
 ```
 
 Then, follow the prompt to input the file name of the small molecule:
 ```bash
-Enter the name of the file: [your_file_name]
+input file name: [your_file_name]
 ```
 
 The script will automatically extract the coordinates of the small molecule.
